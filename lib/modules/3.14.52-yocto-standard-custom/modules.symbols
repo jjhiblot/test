@@ -1,6 +1,5 @@
 # Aliases for symbols, used by symbol_request().
 alias symbol:cfg80211_report_obss_beacon cfg80211
-alias symbol:mcu_poweroff mxucpu2
 alias symbol:hostap_remove_proc hostap
 alias symbol:print_ssid lib80211
 alias symbol:crc7 crc7
@@ -84,6 +83,7 @@ alias symbol:__nf_nat_l4proto_find nf_nat
 alias symbol:nf_nat_l4proto_unregister nf_nat
 alias symbol:ieee80211_sta_ps_transition mac80211
 alias symbol:rfkill_get_led_trigger_name rfkill
+alias symbol:mcu_poweroff2 mxucpu2
 alias symbol:ieee80211_cqm_rssi_notify mac80211
 alias symbol:usbnet_resume usbnet
 alias symbol:cfg80211_find_ie cfg80211
