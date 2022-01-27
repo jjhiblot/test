@@ -1,5 +1,6 @@
 # Aliases for symbols, used by symbol_request().
 alias symbol:cfg80211_report_obss_beacon cfg80211
+alias symbol:mcu_poweroff mxucpu2
 alias symbol:hostap_remove_proc hostap
 alias symbol:print_ssid lib80211
 alias symbol:crc7 crc7

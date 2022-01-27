@@ -7,6 +7,7 @@ alias fs-udf udf
 alias platform:mxc_dcic mxc_dcic
 alias of:N*T*Cfsl,imx6sx-dcic* mxc_dcic
 alias of:N*T*Cfsl,imx6q-dcic* mxc_dcic
+alias i2c:mcu_i2c mxucpu2
 alias usb:v066Bp20F9d*dc*dsc*dp*ic*isc*ip*in* asix
 alias usb:v0B95p172Ad*dc*dsc*dp*ic*isc*ip*in* asix
 alias usb:v0B95p7E2Bd*dc*dsc*dp*ic*isc*ip*in* asix
